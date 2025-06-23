@@ -1,2 +1,2 @@
 # Research
-Research that has been done during Internship Period at SpurQLabs Company 
+Research that has been done during the Internship Period at SpurQLabs Company. 
